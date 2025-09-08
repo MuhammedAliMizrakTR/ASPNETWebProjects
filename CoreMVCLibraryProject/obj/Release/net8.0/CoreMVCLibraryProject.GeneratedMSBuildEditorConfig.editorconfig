@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreMVCLibraryProject
+build_property.RootNamespace = CoreMVCLibraryProject
+build_property.ProjectDir = D:\Desktop\ASP.NET\CoreMVCLibraryProject\CoreMVCLibraryProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Desktop\ASP.NET\CoreMVCLibraryProject\CoreMVCLibraryProject
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Islems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Islems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Islems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Islems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Islems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Kitaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Kitaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Kitaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Kitaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Kitaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Ogrencis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Ogrencis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Ogrencis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Ogrencis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Ogrencis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2dyZW5jaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Turs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Turs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Turs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Turs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Turs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Yazars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Yazars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Yazars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Yazars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Yazars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWWF6YXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Desktop/ASP.NET/CoreMVCLibraryProject/CoreMVCLibraryProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0nhak11aem

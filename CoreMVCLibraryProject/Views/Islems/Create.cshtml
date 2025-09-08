@@ -1,0 +1,46 @@
+﻿@model CoreMVCLibraryProject.Models.Entities.Islem
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Islem</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OgrNo" class="control-label"></label>
+                <select asp-for="OgrNo" class ="form-control" asp-items="ViewBag.OgrNo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="KitapNo" class="control-label"></label>
+                <select asp-for="KitapNo" class ="form-control" asp-items="ViewBag.KitapNo"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ATarih" class="control-label"></label>
+                <input asp-for="ATarih" class="form-control" />
+                <span asp-validation-for="ATarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VTarih" class="control-label"></label>
+                <input asp-for="VTarih" class="form-control" />
+                <span asp-validation-for="VTarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

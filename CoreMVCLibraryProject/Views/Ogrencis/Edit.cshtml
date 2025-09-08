@@ -1,0 +1,59 @@
+﻿@model CoreMVCLibraryProject.Models.Entities.Ogrenci
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Ogrenci</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="OgrNo" />
+            <div class="form-group">
+                <label asp-for="OgrAd" class="control-label"></label>
+                <input asp-for="OgrAd" class="form-control" />
+                <span asp-validation-for="OgrAd" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OgrSoyad" class="control-label"></label>
+                <input asp-for="OgrSoyad" class="form-control" />
+                <span asp-validation-for="OgrSoyad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cinsiyet" class="control-label"></label>
+                <input asp-for="Cinsiyet" class="form-control" />
+                <span asp-validation-for="Cinsiyet" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DTarih" class="control-label"></label>
+                <input asp-for="DTarih" class="form-control" />
+                <span asp-validation-for="DTarih" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sinif" class="control-label"></label>
+                <input asp-for="Sinif" class="form-control" />
+                <span asp-validation-for="Sinif" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Puan" class="control-label"></label>
+                <input asp-for="Puan" class="form-control" />
+                <span asp-validation-for="Puan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
